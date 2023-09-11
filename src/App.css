@@ -1,0 +1,48 @@
+/* body{
+  background-color: darkgray;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+}
+input{
+  
+  padding: 6px 12px;
+  background: rgb(31, 32, 35);
+  border: 1px solid rgb(60, 63, 68);
+  border-radius: 4px;
+  font-size: 13px;
+  color: rgb(247, 248, 248);
+  height: 26px;
+  appearance: none;
+  transition: border 0.15s ease 0s;
+  margin: 16px;
+  text-align: center;
+
+}
+input:focus{
+    outline: none;
+    box-shadow: none;
+    border-color: rgb(100, 153, 255);
+}
+
+button{
+  background-color: rgb(87, 164, 87);
+  color: aliceblue;
+  padding: 8px 24px 8px 24px;
+  border: 2px solid black;
+  border-radius: 8px;
+} */
+thead[data-test="table-foot"] {
+  display: none;
+} 
