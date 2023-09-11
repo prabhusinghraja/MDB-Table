@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MDB-Table/static/css/main.5e31b9cc.css",
+    "main.js": "/MDB-Table/static/js/main.87a70b85.js",
+    "static/js/787.a3118e53.chunk.js": "/MDB-Table/static/js/787.a3118e53.chunk.js",
+    "index.html": "/MDB-Table/index.html",
+    "main.5e31b9cc.css.map": "/MDB-Table/static/css/main.5e31b9cc.css.map",
+    "main.87a70b85.js.map": "/MDB-Table/static/js/main.87a70b85.js.map",
+    "787.a3118e53.chunk.js.map": "/MDB-Table/static/js/787.a3118e53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e31b9cc.css",
+    "static/js/main.87a70b85.js"
+  ]
+}
